@@ -3,7 +3,7 @@ package task_test
 import (
 	"testing"
 
-	"github.com/lemos-g/CtxShift/task"
+	"github.com/lemos-g/CtxShift/internal/task"
 )
 
 func TestNewCreatesActiveTask(t *testing.T) {
