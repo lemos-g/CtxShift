@@ -1,0 +1,14 @@
+# Go build outputs
+bin/
+/context
+
+# Go test and coverage outputs
+*.test
+*.out
+
+# Platform-specific binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
